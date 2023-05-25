@@ -59,7 +59,16 @@ License
 This program is distributed under the MIT License. See the LICENSE file for more information.
 
 Contributions
-Contributions are welcome. If you encounter any issues or have any suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository: [Repository](https://github.com/H4cKer54N/reverse_video).
+
+Contributions are welcome! If you encounter any issues or have any suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository: [Repository](https://github.com/H4cKer54N/reverse_video).
+
+Please note the following guidelines for contributing:
+
+- For new features, bug fixes, or improvements, please create a new branch based on the `features` branch.
+- Limit direct commits to the `main` branch. All changes to the `main` branch should be made through pull requests.
+- Before merging changes into the `main` branch, ensure that your pull request has passed the necessary reviews and meets the required criteria (e.g., passing automated tests).
+
+We appreciate your contributions and look forward to working together to improve the project. Thank you!
 
 Contact
 If you have any questions or comments, you can contact [Santiago Britos] via [snbq89@gmail.com].
